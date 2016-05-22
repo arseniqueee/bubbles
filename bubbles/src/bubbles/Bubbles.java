@@ -1,7 +1,7 @@
 package bubbles;
 
 import java.util.Scanner;
-
+import java.lang.System.out;
 
 public class Bubbles {
 
